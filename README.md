@@ -50,9 +50,14 @@ The website's footer includes social media icons that link to the artist's or ed
 
 The color palette consists of soft, muted tones like pastel blues, grays, and whites, creating a clean and elegant feel. The typography combines a sans-serif font for headings and a legible serif font for body text, ensuring readability and sophistication.
 
-**Overall Aesthetic:**
 
-The website design exudes professionalism, creativity, and a focus on visual aesthetics, reflecting the artist's or editor's commitment to their craft. It's easy to navigate and mobile-responsive, ensuring a seamless user experience across devices.
+**All Cpyrights reserved by White Hat Designer in 2022**
+
+Thank you!!!
+
+
+
+
 
 
 
